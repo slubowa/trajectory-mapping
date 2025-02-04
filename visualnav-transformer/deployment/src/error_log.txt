@@ -1,0 +1,2 @@
+Unexpected error loading model: Expected state_dict to be dict-like, got <class 'vint_train.models.vint.vint.ViNT'>.
+Unexpected error loading model: Expected state_dict to be dict-like, got <class 'vint_train.models.vint.vint.ViNT'>.
